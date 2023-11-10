@@ -12,9 +12,10 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("1600w-iWMZ0xN6KXs.webp");
     
-    background-repeat: no-repeat;
+    
+
     
     }
     
@@ -38,7 +39,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("images.dino.png");
     
     }
     
@@ -58,11 +59,60 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
     }
-    
-    English
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("medellin.jpeg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
     
